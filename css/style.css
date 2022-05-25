@@ -1,0 +1,16 @@
+.navbar-brand span {
+    color: #fff!important;
+}
+
+.form-control,
+.form-select {
+    padding: 16px 0 !important;
+}
+
+.nav-link {
+    color: #fff!important;
+}
+
+#contact-us {
+    background-color: #fff!important;
+}
