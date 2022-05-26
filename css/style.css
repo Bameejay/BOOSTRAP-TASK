@@ -14,3 +14,11 @@
 #contact-us {
     background-color: #fff!important;
 }
+
+.text-center h2 {
+    margin-top: 64px!important;
+}
+
+.bg-light {
+    max-height: 100vh!important;
+}
