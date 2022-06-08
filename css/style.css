@@ -1,3 +1,13 @@
+/* body {
+    background-image: url("/img/cool-background\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+body {
+    background-color: #444444;
+}
+
 .navbar-brand span {
     color: #fff!important;
 }
@@ -21,4 +31,39 @@
 
 .bg-light {
     max-height: 100vh!important;
+}
+
+#footer {
+    background-image: url("/img/footer-bg.png");
+    /* background-color: #444; */
+}
+
+#footer a {
+    text-decoration: none;
+    list-style: none;
+}
+
+#footer li {
+    list-style: none;
+}
+
+li a {
+    color: #000;
+}
+
+.bi-facebook,
+.bi-twitter,
+.bi-linkedin,
+.bi-instagram {
+    color: #000;
+    width: 100px;
+    height: 100px;
+}
+
+.bi-chevron-right {
+    opacity: 0.4;
+}
+
+section {
+    padding: 60px 0;
 }
