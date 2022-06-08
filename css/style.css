@@ -29,6 +29,10 @@ body {
     background-color: #fff!important;
 }
 
+#aboutus-heading h2 {
+    padding-top: 10px;
+}
+
 .text-center h2 {
     margin-top: 64px!important;
 }
