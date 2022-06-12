@@ -23,27 +23,8 @@ body {
     background-color: #fff!important;
 }
 
-<<<<<<< HEAD
-
-/* .aboutus-page {
-    background-color: red !important;
-    color: aqua;
-    height: 550px;
-    margin-top: 0;
-}
-
-.text-white h2 {
-    margin-bottom: 0 !important;
-} */
-
-=======
->>>>>>> 7524d35aadfd5b5c1030ec412ac212eebd0ba5cf
 #aboutus-heading h2 {
     padding-top: 10px;
-}
-
-.text-center h2 {
-    margin-top: 64px!important;
 }
 
 .bg-light {
@@ -52,7 +33,6 @@ body {
 
 #footer {
     background-image: url("/img/footer-bg.png");
-    /* background-color: #444; */
 }
 
 #footer a {
