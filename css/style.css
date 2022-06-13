@@ -6,6 +6,14 @@ body {
     color: #fff!important;
 }
 
+.homepage:active {
+    color: #000;
+}
+
+.homepage li a {
+    background-color: aqua;
+}
+
 .form-control,
 .form-select {
     padding: 16px 0 !important;
@@ -13,6 +21,17 @@ body {
 
 .nav-link {
     color: #fff!important;
+    font-family: 'Raleway', sans-serif!important;
+    font-weight: 700!important;
+    ;
+}
+
+#navbar ul .nav-link:hover {
+    color: #444!important;
+}
+
+#navbar ul .nav-link {
+    font-size: 12px!important;
 }
 
 #navbar {
@@ -25,10 +44,6 @@ body {
 
 #aboutus-heading h2 {
     padding-top: 10px;
-}
-
-.bg-light {
-    max-height: 100vh!important;
 }
 
 #footer {
@@ -63,4 +78,8 @@ li a {
 
 section {
     padding-bottom: 50px;
+}
+
+#ourservice {
+    background-color: rgb(233, 233, 233);
 }
